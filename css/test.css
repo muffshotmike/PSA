@@ -1,0 +1,10 @@
+body{background-color: seagreen;}
+
+h1{font-size: 30px;
+color: cyan;}
+h2{font-size: 15px;
+color: mediumorchid;}
+.big{font-size: 60px;}
+.uppercase{text-transform: uppercase;}
+.big.uppercase{color: moccasin;}
+h1 span{color: crimson;}  
