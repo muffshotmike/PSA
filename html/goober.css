@@ -1,0 +1,15 @@
+span{color: red;}
+span{text-transform: uppercase;}
+body{background-color: rgb(46, 5, 49);}
+main{color: ghostwhite;}
+header{color: ghostwhite;}
+.imgContainer{
+    float:left;
+    padding: 70px;
+}
+.marginauto{
+    text-align: center;    
+}
+h2{
+    text-size-adjust: 20px;
+}
